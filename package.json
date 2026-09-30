@@ -1,0 +1,23 @@
+{
+  "name": "nandini-portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio of Nandini Maheshwaram - Full-Stack Developer",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -p 5000",
+    "dev": "npx serve . -p 5000",
+    "preview": "npx serve . -p 5000",
+    "deploy:vercel": "npx vercel --prod",
+    "deploy:netlify": "npx netlify deploy --prod"
+  },
+  "keywords": [
+    "portfolio",
+    "web-developer",
+    "full-stack",
+    "javascript",
+    "html5",
+    "css3"
+  ],
+  "author": "Nandini Maheshwaram",
+  "license": "MIT"
+}

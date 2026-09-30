@@ -170,7 +170,7 @@ document.addEventListener("DOMContentLoaded", () => {
             techStack: ["Python", "Scikit-learn", "Streamlit", "Pandas", "NumPy", "Matplotlib", "AI Chatbot"]
         },
         "modal-adc": {
-            title: "ADC — AI Desktop Controller for Windows",
+            title: "SysFriend — AI Desktop Controller for Windows",
             tag: "Desktop Automation & Application Security",
             overview: "A voice and text-enabled AI assistant for Windows that parses natural language and executes approved desktop commands under a strict security whitelist.",
             problem: "Traditional AI assistants either lack operating system access or grant excessive unrestricted shell execution privileges, creating severe security vulnerabilities.",
